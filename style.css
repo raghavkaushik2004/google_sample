@@ -2,7 +2,7 @@
     margin:0;
 }
 body {
-    display : felx;
+    display : flex;
     flex-direction: column;
     height: 100vh;
 }
@@ -23,7 +23,7 @@ body {
 .mainbody {
     flex :0.5;
     display : flex;
-    margin-top: 5%;
+    margin-top: 5.5%;
     flex-direction: column;
     align-items: center;
 }
